@@ -82,6 +82,6 @@ This mini-project collection helped me:
 
 ### 👨‍💻 Author
 
-Arya Madiwale
-📍 Computer Engineering Student | AI & ML Enthusiast
-🧩 Developed during Code Alpha Python Internship
+- Arya Madiwale
+- 📍 Computer Engineering Student | AI & ML Enthusiast
+- 🧩 Developed during Code Alpha Python Internship
